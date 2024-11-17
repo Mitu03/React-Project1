@@ -1,6 +1,6 @@
 
 # Getting Started with Crea![Screenshot_20241028-064713](https://github.com/user-attachments/assets/25132a78-088a-49a9-b045-52bba2c29da6)
-te React App
+React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
